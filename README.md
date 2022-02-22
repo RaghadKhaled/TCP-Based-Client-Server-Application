@@ -16,6 +16,6 @@ Where we implemented two modes of exchanging the messages, the open mode, where 
 
 ## Development environment requirements
 
-Python language
-Socket library
-Crypto.Cipher package 
+- Python language
+- Socket library
+- Crypto.Cipher package 
